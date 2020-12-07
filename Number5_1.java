@@ -14,8 +14,5 @@ public class Number5_1 {
 
             System.out.println("Добрый день, а вы кто?");
             }
-
-
-
     }
 }
